@@ -1,0 +1,8 @@
+Flask
+yfinance
+pandas
+requests
+cachetools
+restrictedpython
+transformers
+sentencepiece
